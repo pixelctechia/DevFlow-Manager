@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Database (Optional - Remove if you want to commit the DB)
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/secrets.toml
+# Keep config.toml
+!.streamlit/config.toml
+
+# IDE
+.vscode/
+.idea/
