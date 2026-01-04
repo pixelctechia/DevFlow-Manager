@@ -77,7 +77,17 @@ DevFlow Manager/
 
 ## 📄 Licença
 
-Este projeto é de uso privado/interno.
+**Copyright (c) 2026 PixelC Tech - Marcos Paiva**
+
+Este projeto é destinado exclusivamente para fins **EDUCACIONAIS** e **NÃO-COMERCIAIS**.
+
+- ✅ Você pode: Estudar, modificar e usar para aprendizado.
+- ✅ Você deve: Manter os créditos e informar melhorias (via Fork/PR).
+- ❌ Você NÃO pode: Vender, comercializar ou usar para lucro sem autorização.
+
+Para uso comercial, entre em contato com **Marcos Paiva (PixelC Tech)**.
+
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 **Desenvolvido por PixelC Tech**
